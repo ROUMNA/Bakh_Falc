@@ -1,1 +1,1 @@
-Ce projet concerne l'automatisation des critères du FALC.
+About automation FALC critaria
